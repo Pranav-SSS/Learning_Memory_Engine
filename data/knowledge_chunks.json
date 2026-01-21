@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "topic": "Physics",
+        "subtopic": "Newton Laws",
+        "concept": "Newton First Law",
+        "difficulty": "beginner",
+        "text": "Newton's First Law states that an object remains at rest or continues to move at a constant velocity in a straight line unless acted upon by an external force. This tendency of objects to resist changes in their state of motion is called inertia. For example, a book lying on a table remains at rest until someone pushes it."
+    },
+    {
+        "id": 2,
+        "topic": "Physics",
+        "subtopic": "Newton Laws",
+        "concept": "Newton Second Law",
+        "difficulty": "beginner",
+        "text": "Newton's Second Law explains how the motion of an object changes when a force is applied. It states that the acceleration of an object is directly proportional to the force applied and inversely proportional to its mass. This relationship is commonly written as F = m × a."
+    },
+    {
+        "id": 3,
+        "topic": "Physics",
+        "subtopic": "Newton Laws",
+        "concept": "Newton Third Law",
+        "difficulty": "beginner",
+        "text": "Newton's Third Law states that for every action, there is an equal and opposite reaction. This means that forces in nature come in pairs. For example, when you push against a wall, the wall pushes back against you with an equal force."
+    }
+]
