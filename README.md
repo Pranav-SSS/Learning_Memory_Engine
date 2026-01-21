@@ -231,7 +231,7 @@ python main.py
 
 ## 👤 Author
 
-**Pranav**
+**Satyagari Sai Sree Pranav**
 
 ---
 
