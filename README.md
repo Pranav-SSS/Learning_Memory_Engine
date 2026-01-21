@@ -232,7 +232,6 @@ python main.py
 ## 👤 Author
 
 **Pranav**
-Learning Memory Engine
 
 ---
 
